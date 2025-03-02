@@ -7,7 +7,7 @@
 이 자료를 통해 **신경망 기초부터 CNN, RNN, GAN, Transformer까지** 딥러닝의 핵심 개념을 익히고 **실제 프로젝트에 활용하는 능력**을 갖추세요! 🚀    
 
 
-<img src="https://github.com/oracleyu01/deeplearning_55/blob/main/data/deeplearning.png" width="600" height="400">
+<img src="https://github.com/oracleyu01/deeplearning_55/blob/main/data/deeplearning2.png" width="600" height="400">
 
 &nbsp;  
 
