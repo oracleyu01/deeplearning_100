@@ -4,7 +4,10 @@
 
 이곳은 **딥러닝(Deep Learning)을 체계적으로 학습할 수 있는 55제**를 정리한 깃허브 저장소입니다.    
 
-이 자료를 통해 **신경망 기초부터 CNN, RNN, GAN, Transformer까지** 딥러닝의 핵심 개념을 익히고 **실제 프로젝트에 활용하는 능력**을 갖추세요! 🚀    
+이 자료를 통해 **신경망 기초부터 CNN, RNN, GAN, Transformer까지** 딥러닝의 핵심 개념을 익히고    
+
+**실제 프로젝트에 활용하는 능력**을 갖추세요! 🚀      
+
 
 
 <img src="https://github.com/oracleyu01/deeplearning_55/blob/main/data/deeplearning100.png" width="600" height="400">
